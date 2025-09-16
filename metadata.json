@@ -1,0 +1,7 @@
+{
+  "name": "Checkmate App",
+  "description": "An intelligent to-do list application powered by React, Firebase, and Gemini. Organize your tasks into lists, collaborate, and use AI to automatically generate and break down complex tasks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
